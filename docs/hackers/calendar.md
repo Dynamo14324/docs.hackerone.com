@@ -35,17 +35,17 @@ You can choose to regenerate your calendar URL by clicking **Regenerate**. Keep 
 4. Choose how frequently you want to refresh the events in the **Auto Refresh** field.
 5. Click **OK**.
 
-<h3 id="Google">Importing to Google Calendar</h3>
 
-1. Open [Google Calendar](https://calendar.google.com/).
-2. Add a new calendar by selecting **From URL**.
 
-![google calendar add calendar](./images/hacker-calendar-4.png)
 
-3. Enter your HackerOne calendar URL.
 
-![google cal adding URL](./images/hacker-calendar-5.png)
 
-4. Click **Add Calendar**.
-5. *(Optional)* Go to **Settings** in your Google Calendar.
-6. *(Optional)* Select the HackerOne calendar and enter a name for it. You can also choose a color to help you better identify it on your calendar.
+
+
+
+
+
+
+
+
+
