@@ -4670,7 +4670,7 @@ gatsby-transformer-sharp@^1.6.21:
     fs-extra "^4.0.2"
     probe-image-size "^4.0.0"
 
-gatsby@^1.9.250:
+gatsby@^1.9.279:
   version "1.9.279"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-1.9.279.tgz#e035bcac78b8280e12d42a3d068af4dcda5fcfd6"
   integrity sha512-JpXW0l2bWpqxlrjnFm4GSoy1JgFaI9p9rlKOzDGBaLnwFHDHp2G8tgbcQmIH+RNf5m5okPDSgJySS/PjaKjWeg==
